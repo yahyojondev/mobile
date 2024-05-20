@@ -1,5 +1,5 @@
 let a = prompt(
-  " So'zni kiritng   1.mashina,2.opa,3.kuchuk,4.tog'a,5.dada,6.ona,7.suv,8.aka,9.hayrli kun:"
+  " So'zni kiriting:   1.mashina,2.opa,3.kuchuk,4.tog'a,5.dada,6.ona,7.suv,8.aka,9.hayrli kun:"
 );
 if (a === "salom") {
   alert("hello");
